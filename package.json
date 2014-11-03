@@ -27,7 +27,7 @@
     "test": "grunt test --force"
   },
   "dependencies": {
-    "csslint": "~0.10.0",
+    "csslint": "git://github.com/aaronjorbin/patched-csslint.git",
     "chalk": "~0.5.1",
     "lodash": "~2.4.1"
   },
